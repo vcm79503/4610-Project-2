@@ -60,7 +60,7 @@ B. <img width="787" alt="3" src="https://github.com/user-attachments/assets/bc76
 <img width="1470" alt="Screenshot 2025-04-28 at 5 25 52 PM" src="https://github.com/user-attachments/assets/c895a19b-0a93-4163-b3d8-63b2585e9ac7" />
 <img width="1470" alt="Screenshot 2025-04-28 at 5 25 56 PM" src="https://github.com/user-attachments/assets/d36ebd38-5702-4a83-9c96-95bf365f94ea" />
 
-
+The visualizations highlight important patterns in animal outcomes at the Austin, Texas shelter. Birds experience both positive and negative outcomes at younger ages, often around 1 to 1.5 years, suggesting a faster turnover in the shelter system. Cats are adopted at the youngest average age but also face negative outcomes like euthanasia earlier, usually between 1–2 years, possibly due to health issues or overcrowding. Dogs, in contrast, are adopted later, around 1.9 years, and face euthanasia at the oldest average age of about 4.44 years, showing that older dogs are particularly at risk. After noticing these major differences in average euthanasia age between cats and dogs, we decided to investigate euthanasia rates further by looking at gender and sterilization status. One interesting finding was that male dogs are euthanized at higher rates than females, regardless of whether they are neutered or intact. Overall, the analysis shows that species, gender, and reproductive status all play a major role in survival outcomes, suggesting that shelters could reduce euthanasia rates by promoting spay/neuter programs and targeting vulnerable groups like intact males.
 
 
 
