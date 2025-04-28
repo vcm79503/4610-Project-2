@@ -56,10 +56,9 @@ B. <img width="787" alt="3" src="https://github.com/user-attachments/assets/bc76
   - The implications of this analysis are critical for animal welfare strategies. Shelters could benefit from prioritizing sterilization programs and targeted marketing or intervention efforts aimed at intact males, who appear to be at the greatest risk. Additionally, educating the public about the behavioral benefits and improved adoption chances for sterilized animals could help lower overall euthanasia rates. Future outreach campaigns might be more effective if they emphasize neutering and focus on male animals, which the data suggest are a particularly vulnerable group.
 
 ## Tableau Packaged Workbook
-
-
-
-
+<img width="1470" alt="Screenshot 2025-04-28 at 5 25 45 PM" src="https://github.com/user-attachments/assets/0dbb59cc-2e36-42ec-a5bc-b37258f283c0" />
+<img width="1470" alt="Screenshot 2025-04-28 at 5 25 52 PM" src="https://github.com/user-attachments/assets/c895a19b-0a93-4163-b3d8-63b2585e9ac7" />
+<img width="1470" alt="Screenshot 2025-04-28 at 5 25 56 PM" src="https://github.com/user-attachments/assets/d36ebd38-5702-4a83-9c96-95bf365f94ea" />
 
 
 
